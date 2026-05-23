@@ -2,9 +2,6 @@
 ```markdown
 # 👨‍👩‍👧‍👦 Cadastro de Integrantes da Família em C#
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-![.NET Version](https://img.shields.io/badge/.NET-8.0-blue.svg)
-
 Um aplicativo interativo de console desenvolvido em **C#** para automatizar o cadastro e análise estatística de integrantes de uma família. Este projeto foi criado com fins de estudo prático para consolidar fundamentos de lógica de programação, manipulação de dados em arrays/vetores e tratamento de fluxo condicional.
 
 ---
