@@ -1,10 +1,4 @@
 # familia-console-csharp
-Esse projeto que você construiu é excelente para colocar no portfólio de estudos, porque demonstra que você já domina manipulação de terminal, laços de repetição (`for`), vetores/listas dinâmicas, tratamento de tipos e lógica condicional.
-
-Ter um bom `README.md` no GitHub é o que faz os recrutadores e outros programadores olharem seu perfil com bons olhos.
-
-Crie um arquivo chamado **`README.md`** (exatamente com esse nome e extensão) na raiz do seu repositório no GitHub, clique para editar e cole o seguinte conteúdo em Markdown:
-
 ```markdown
 # 👨‍👩‍👧‍👦 Cadastro de Integrantes da Família em C#
 
